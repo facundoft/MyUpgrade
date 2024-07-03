@@ -5,6 +5,7 @@ Frontend: Angular
 API REST: Comunicación entre el frontend y el backend
 Base de Datos: MySQL
 
+Para acceder como administrador logearse con  Correo: admin@admin.com  Password: pass123
 Descripción
 
 Esta aplicación de eCommerce permite a los usuarios navegar y comprar una amplia gama de productos tecnológicos. La arquitectura del proyecto está dividida en frontend y backend, asegurando una mejor organización y mantenibilidad del código. Backend
